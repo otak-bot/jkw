@@ -66,13 +66,13 @@ $currentTime = date('Y-m-d\TH:i:sP');
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="canonical" href="<?php echo $urlPath; ?>" />
-    <link rel="amphtml" href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" />
+    <link rel="amphtml" href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" />
     <meta name="robots" content="index, follow">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin />
-    <link rel="alternate" hreflang="id-id" href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>"/>
+    <link rel="alternate" hreflang="id-id" href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>"/>
     <link rel="alternate" href="<?php echo $urlPath; ?>"/>
-    <link rel="alternate" hreflang="id" href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>"/>
+    <link rel="alternate" hreflang="id" href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>"/>
     <link rel="alternate" hreflang="en" href="<?php echo $urlPath; ?>"/>
     <link rel="alternate" hreflang="x-default" href="<?php echo $urlPath; ?>"/>
     <link rel="shortcut icon" href="https://i.postimg.cc/pTZNdzCD/logo-gacor.png">
@@ -996,7 +996,7 @@ $currentTime = date('Y-m-d\TH:i:sP');
             <div class="hura-messages swiper-wrapper">
                <div class="hura-message swiper-slide slick-slide">
                  <?php echo $BRANDS; ?> 🦊 GorainClinic Klinik Kesehatan Modern dengan Layanan Medis Profesional dan Terpercaya
-                  <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
+                  <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" class="announcement_link" target="_blank" rel="nofollow noopener noreferrer">
                   Daftar Disini !
                   </a>
                </div>
@@ -1978,7 +1978,7 @@ $currentTime = date('Y-m-d\TH:i:sP');
                         </li>
                         <li class="right_header_division right_menu_divider"></li>
                         <li><a
-                           href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -1986,7 +1986,7 @@ $currentTime = date('Y-m-d\TH:i:sP');
                            </a>
                         </li>
                         <li><a
-                           href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank" rel="nofollow noopener noreferrer"
+                           href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank" rel="nofollow noopener noreferrer"
                            class="rightMenuUpdate headerCss header__menu-item header__menu-item list-menu__item link link--text focus-inset"
                            >
                            <span
@@ -3093,7 +3093,7 @@ $currentTime = date('Y-m-d\TH:i:sP');
                               &nbsp </label>
                            </fieldset>
                            <p>
-                             <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank">
+                             <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://i.pinimg.com/originals/cf/c7/0b/cfc70b6ca78cf378ddf1d92620d35002.gif" width="400" height="150"/>
                              </a>
                            </p>
@@ -5180,23 +5180,23 @@ $currentTime = date('Y-m-d\TH:i:sP');
 </style>
 
 <div class="<?php echo $BRANDS; ?>-fixed-footer">
-    <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
+    <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/pTZNdzCD/logo-gacor.png" alt="BONUS <?php echo $BRANDS; ?>">
         Promo
     </a>
-    <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
+    <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/pTZNdzCD/logo-gacor.png" alt="LOGIN <?php echo $BRANDS; ?>">
         Login
     </a>
-    <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/pTZNdzCD/logo-gacor.png" alt="DAFTAR <?php echo $BRANDS; ?>">
         Daftar
     </a>
-    <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
+    <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/pTZNdzCD/logo-gacor.png" alt="WHATSAPP <?php echo $BRANDS; ?>">
         Whatsapp
     </a>
-    <a href="https://goraiclini.pages.dev/amp/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank"
+    <a href="https://goraiclini.pages.dev/amp/?news_id=<?php echo $BRANDS; ?>" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://i.postimg.cc/pTZNdzCD/logo-gacor.png"
             alt="LIVE CHAT <?php echo $BRANDS; ?>">
